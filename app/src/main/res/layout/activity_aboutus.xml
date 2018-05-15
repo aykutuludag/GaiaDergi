@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ActivityAbout">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ToolbarTheme">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:theme="@style/ToolbarTheme" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FAFAFA"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/imageView0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    android:contentDescription="TODO"
+                    android:minHeight="80dp"
+                    android:minWidth="280dp"
+                    android:src="@drawable/ic_gaia" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/imageView3"
+                    android:layout_below="@+id/imageView3"
+                    android:layout_marginTop="19dp"
+                    android:contentDescription="TODO"
+                    android:src="@drawable/ic_social_mail" />
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/imageView1"
+                    android:layout_below="@+id/imageView1"
+                    android:layout_marginTop="17dp"
+                    android:contentDescription="TODO"
+                    android:src="@mipmap/ic_launcher" />
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/imageView5"
+                    android:layout_below="@+id/imageView5"
+                    android:src="@drawable/ic_social_twitter" />
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imageView5"
+                    android:layout_toRightOf="@+id/imageView6"
+                    android:src="@drawable/ic_social_instagram" />
+
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/imageView6"
+                    android:layout_below="@+id/imageView6"
+                    android:src="@drawable/ic_social_linkedin" />
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/imageView8"
+                    android:layout_below="@+id/imageView8"
+                    android:src="@drawable/ic_social_rss" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imageView0"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="TODO"
+                    android:text="Gaia Dergi; ırkçılığa, cinsiyet ayrımcılığına, türcülüğe ve betonlaşmaya karşı, doğadan ve doğaldan yana yaşamı savunan alternatif bir platformdur. Ekoloji, sürdürülebilir yaşam, yeşil felsefe, kadın hakları, LGBTİ hakları, insan hakları, hayvan hakları, kültür-sanat, dünya kültürleri ve bilim &amp; teknoloji alanında haberler ve röportajlar yapan görsel ve yazılı bir haber kaynağıdır."
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imageView9"
+                    android:layout_toRightOf="@+id/imageView9"
+                    android:src="@drawable/ic_social_youtube" />
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/textView1"
+                    android:layout_alignTop="@+id/imageView5"
+                    android:src="@drawable/ic_social_google" />
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/textView1"
+                    android:layout_below="@+id/textView1"
+                    android:contentDescription="TODO"
+                    android:src="@drawable/ic_social_phone" />
+
+                <TextView
+                    android:id="@+id/TextView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/textView2"
+                    android:layout_alignTop="@+id/imageView9"
+                    android:text="iletisim@gaiadergi.com"
+                    android:textColor="#000000"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/TextView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/imageView11"
+                    android:layout_alignLeft="@+id/TextView3"
+                    android:layout_marginBottom="12dp"
+                    android:text="https://gaiadergi.com"
+                    android:textColor="#000000"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imageView9"
+                    android:layout_toLeftOf="@+id/imageView10"
+                    android:src="@drawable/ic_social_tumblr" />
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/textView2"
+                    android:layout_toLeftOf="@+id/imageView7"
+                    android:src="@drawable/ic_social_facebook" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/imageView3"
+                    android:layout_marginBottom="14dp"
+                    android:layout_marginLeft="11dp"
+                    android:layout_toRightOf="@+id/imageView3"
+                    android:text="+90 (532) 577 87 89"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:alpha="0.54"
+            android:text="Copyright © 2017 Gaia Dergi"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

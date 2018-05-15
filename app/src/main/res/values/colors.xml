@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHomeDark">#000000</color>
+    <color name="colorHomePrimary">#212121</color>
+
+    <color name="colorGreenDark">#005F17</color>
+    <color name="colorGreenPrimary">#00801E</color>
+
+    <color name="colorLifeDark">#630163</color>
+    <color name="colorLifePrimary">#972e97</color>
+
+    <color name="colorEcologyDark">#2B1C0D</color>
+    <color name="colorEcologyPrimary">#503a26</color>
+
+    <color name="colorCultureDark">#39616B</color>
+    <color name="colorCulturePrimary">#54838F</color>
+
+    <color name="colorScienceDark">#0022C9</color>
+    <color name="colorSciencePrimary">#2e51ff</color>
+
+    <color name="colorTurkeyDark">#D80000</color>
+    <color name="colorTurkeyPrimary">#ff0707</color>
+
+    <color name="colorEventsDark">#D7491C</color>
+    <color name="colorEventsPrimary">#ff5722</color>
+
+    <color name="colorSocietyDark">#C91955</color>
+    <color name="colorSocietyPrimary">#e91e63</color>
+</resources>

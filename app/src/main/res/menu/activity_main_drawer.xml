@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_slider_home"
+            android:title="@string/nav_text_home" />
+        <item
+            android:id="@+id/nav_green"
+            android:icon="@drawable/ic_slider_green"
+            android:title="@string/nav_text_green" />
+        <item
+            android:id="@+id/nav_life"
+            android:icon="@drawable/ic_slider_life"
+            android:title="@string/nav_text_life" />
+        <item
+            android:id="@+id/nav_ecology"
+            android:icon="@drawable/ic_slider_ecology"
+            android:title="@string/nav_text_ecology" />
+        <item
+            android:id="@+id/nav_culture"
+            android:icon="@drawable/ic_slider_culture"
+            android:title="@string/nav_text_culture" />
+        <item
+            android:id="@+id/nav_science"
+            android:icon="@drawable/ic_slider_science"
+            android:title="@string/nav_text_science" />
+        <item
+            android:id="@+id/nav_turkey"
+            android:icon="@drawable/ic_slider_turkey"
+            android:title="@string/nav_text_turkey" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_slider_events"
+            android:title="@string/nav_text_events" />
+        <item
+            android:id="@+id/nav_society"
+            android:icon="@drawable/ic_slider_society"
+            android:title="@string/nav_text_society" />
+    </group>
+
+    <item android:title="@string/nav_section_special">
+        <menu>
+            <item
+                android:id="@+id/nav_favorites"
+                android:icon="@drawable/ic_slider_favorites"
+                android:title="@string/nav_text_favorites" />
+            <item
+                android:id="@+id/nav_sharings"
+                android:icon="@drawable/ic_slider_sharings"
+                android:title="@string/nav_text_sharings" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_slider_settings"
+                android:title="@string/nav_text_settings" />
+        </menu>
+    </item>
+
+    <item android:title="@string/nav_section_extras">
+        <menu>
+            <item
+                android:id="@+id/nav_store"
+                android:icon="@drawable/ic_slider_store"
+                android:title="@string/nav_text_store" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_slider_about"
+                android:title="@string/nav_text_about" />
+
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_slider_rate"
+                android:title="@string/nav_text_rate" />
+
+            <item
+                android:id="@+id/nav_support"
+                android:icon="@drawable/ic_slider_support"
+                android:title="@string/nav_text_support" />
+        </menu>
+    </item>
+</menu>

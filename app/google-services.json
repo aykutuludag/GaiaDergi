@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "205890638631",
+    "firebase_url": "https://gaia-dergi.firebaseio.com",
+    "project_id": "gaia-dergi",
+    "storage_bucket": "gaia-dergi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205890638631:android:9e6958fcd47c3edd",
+        "android_client_info": {
+          "package_name": "com.gaiadergi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205890638631-f2bsd029stg5ckb161crs7rgq9lcl3ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaiadergi",
+            "certificate_hash": "8a4a6e6a3aa10c22101b3e6bdfa852ac4e63b0bc"
+          }
+        },
+        {
+          "client_id": "205890638631-1lqon7bhmc9ui60t69r8967o74aj5n3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaiadergi",
+            "certificate_hash": "5b09453cf70b113ce62b76412c8a23f3e7a73da3"
+          }
+        },
+        {
+          "client_id": "205890638631-gog9ep44lu6tqe0is1n4cjdu7lroudg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQj0oFtHuTh7YTcRZQc0ExHtP282WzIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205890638631-gog9ep44lu6tqe0is1n4cjdu7lroudg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

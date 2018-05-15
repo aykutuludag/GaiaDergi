@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        applicationId "com.gaiadergi"
+        versionCode 33
+        versionName "6.0"
+        minSdkVersion 16
+        targetSdkVersion 27
+        manifestPlaceholders = [onesignal_app_id: "3533c13b-9e7d-4b0c-a884-31e744d6e425", onesignal_google_project_number: "REMOTE"]
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.android.support:cardview-v7:27.1.1'
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.android.support:customtabs:27.1.1'
+    implementation 'com.google.android.gms:play-services-analytics:12.0.1'
+    implementation 'com.google.firebase:firebase-ads:12.0.1'
+    implementation 'com.google.firebase:firebase-messaging:12.0.1'
+    implementation 'io.github.kobakei:ratethisapp:1.2.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.onesignal:OneSignal:3.8.4'
+}
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gaia Dergi</string>
+    <string name="action_favorite">Favorilere ekle</string>
+    <string name="action_search">Arama</string>
+    <string name="action_share">Paylaş</string>
+    <string name="favorites_added">Favorilerinize eklendi</string>
+    <string name="unfavorited">Favorilerinizden çıkarıldı</string>
+    <string name="exit">Çıkmak için tekrar tıklayın</string>
+    <string name="send_email">E-posta gönder&#8230;</string>
+    <string name="no_app">Cihazınızda e-posta uygulaması bulunmamaktadır…</string>
+    <string name="no_internet">İnternet bağlantınızda bir sorun bulunmaktadır…</string>
+    <string name="nomatch">Aramanız hiçbir sonuçla eşleşmedi&#8230; Daha sonra tekrar deneyiniz&#8230;</string>
+    <string name="error">Bir hata oluştu :(</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string name="nav_text_home">Anasayfa</string>
+    <string name="nav_text_green">Yeşil</string>
+    <string name="nav_text_life">Yaşam</string>
+    <string name="nav_text_ecology">Ekoloji</string>
+    <string name="nav_text_culture">Kültür &amp; Sanat</string>
+    <string name="nav_text_science">Bilim &amp; Teknoloji</string>
+    <string name="nav_text_turkey">Güncel</string>
+    <string name="nav_text_events">Duyurular &amp; Etkinlikler</string>
+    <string name="nav_text_society">İnsan &amp; Toplum</string>
+    <string name="nav_section_special">Size özel</string>
+    <string name="nav_text_favorites">Favoriler</string>
+    <string name="nav_text_sharings">Paylaşılanlar</string>
+    <string name="nav_text_settings">Ayarlar</string>
+    <string name="nav_section_extras">Ekstralar</string>
+    <string name="nav_text_store">Mağaza</string>
+    <string name="nav_text_about">Hakkımızda</string>
+    <string name="nav_text_rate">Uygulamayı puanla!</string>
+    <string name="nav_text_support">Uygulamayı paylaş!</string>
+
+    <!-- NavMenu Statues -->
+    <string name="navigation_drawer_open">Yan menü açıldı</string>
+    <string name="navigation_drawer_close">Yan menü kapandı</string>
+
+    <string name="notification">Bildirimler:</string>
+    <string name="account">E-dergi üyeliği:</string>
+    <string name="version">Sürüm:</string>
+    <string name="account_standart">Yok</string>
+    <string name="account_premium">Mevcut</string>
+    <string name="settings_saved">Ayarlarınız kaydedildi&#8230;</string>
+    <string name="copyright">Copyright © 2017 Gaia Dergi</string>
+
+    <!-- Rate It -->
+    <string name="rate_title">Uygulamayı puanla</string>
+    <string name="rate_message">Uygulamamızı kullanmaktan keyif aldıysanız, uygulamaya 5 yıldız vererek destek olabilirsiniz. Teşekkürler.</string>
+    <string name="rate_yes">Puanla</string>
+    <string name="rate_no">İstemiyorum</string>
+    <string name="rate_later">Sonra</string>
+
+</resources>

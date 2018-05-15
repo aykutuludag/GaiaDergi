@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c0bd18d59c09a5e19efa24e7c481e0400a4ea300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\e3ba00e37e700b6cf7db0b1b7c9b5807655864a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b77c1bbd47792ad3bea2786de42057b1debca821\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\97da94e5f964ad9d8f0550120efabb0c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="28e6b4fd73c50ebde0dc4e0590037b755581add5">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\bfd7afb5f8a88d3f908646942bbe1dbceb4a0483\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa1a91ac1cb0c58eddf13c8c2abb7bbcf43b0f08">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f62031260b7133a44c03f30a0e2cf2277f07c512\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\1db07e40ef48e750b5ad2242eca93e79\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\81c8d0272f4871f5f5948c9851d6ab50\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c28d63152df83024b3a941178bc8f6a37e57d32e">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.2.aar\05bfa933368f79de3b4d899f97d89e17\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d3e264c1846f21d0c8a985e856229dacb81dfb58">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\c580ddf8d2e3ca7a2c51d4f9f27c914eac1bbd0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_672e7e3ddee8b8c16241f71eec502ee64ec2c930\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\fe5f9c868381cc46670dfd0c4ed0cb27\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a0b869be21f2e39e9b337bec395d9a7e111da21e">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Applications\GaiaDergi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4849168ea3f227b89ba9cc9d514277ab7d5a52b8">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d26f741a88c2e1f8a946edde0474760585a42f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\055d0856ee1389f190d9e86b532f8cb1cc17e04f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d0ff480ebad5501f94d80fe60578e2296cbff1">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5433b938fecf7b71f8525f1f95add93a5ebf3102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\b5a01420cd183d9c8e40416f4d696f94373c4c9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_997471eacd12eb5fb4b97f327106c17ad3132c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Applications\GaiaDergi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f035b2bff01c3c122b1450c9525d415d9089b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\04eeedd1e07cc3a568fd90e70f4b1fa3283fdfb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4677f6f310d5327f76c7ace262d776b7bf5eb58">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_691af6cb8067a695a1ee92646534839a63b7cde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\ee0b2ac8110d4809daf23c4f128bb4e9011de5d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b9118bf9e8369448e34e7be734fe37bdb925461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Applications\GaiaDergi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0eeee14631233319b7788da6b037eef87e336ac5">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d26f741a88c2e1f8a946edde0474760585a42f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\c98fc593aad060e56038459af303b67b4eacfe25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_551695717817779cfc1640fcdc9441d2aa29e22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\1f71cfcd75da48d7440fe065b8d41bb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5e890ac897180520f873a054c8dfa59e1119d8cf">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\33d9bbf1985c4fd331fd9eeddf0157ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f14b1ebaf50c9c119b0b892f696d2a8e019ee53a">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\efc37c678d3c4dd0f81ebdbbbca22decda1b8d91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c663a0921b830cc53f54201fe3820e02ac2d6835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\3aed9e064b147221ca657283958e19bd8546ad14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a67ba007272b5e3d99515f0fc59780b7ccd1444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\89d89d9be722574afa1ed260be61ceed3715da35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bac97150719e3dfae3ab1d38d6ccb187935bfac8">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c89ac4f8a5e288e35774a624f947c75d7f3c1ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\71a777896807de43bfb1c5c02e9a5589\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4d7b1a23cecd2855bdfbd8266650d140e9e6977c">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\d284228496c2aabf0794a0ee14b8b610\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="108c3cdbdb89a05d388a170bd3549b1e43ad6d54">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c0bd18d59c09a5e19efa24e7c481e0400a4ea300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\8dd60b3d3ec63dcba2492338a9f1433bed3d8fa8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2c62e0709efc95cc1735e16636d46a0ddeb1b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\25119137769d96ae66d0a71c71bc7fa7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b0ae7bfe4591746f6491a4a270ee56712062d1ca">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\a2c606d661b11ab19436716c48183d117f7e573f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b35ff61463403c8aa7820fc2fa7caf6a29e31c2c">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44171c290cddc34c642483ffedca57d4fce66b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\3dca22690a9be8ce6d0e5c1a1f34d15d95681948\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_924528985b37f4053d0b4449b360e697596fd7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.2_dbc4fdf70295bd0ae05b9077cc8746fe66dd756a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\707117b404637eac864148fbd1d65c279af3df20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e451138714455f5685fa6b4d4d007edcb42f869\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\1f940d029370972d24c9aebde40d04b5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\6b4df854da3a1ecbe6bc9ae68f1c36f3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="239f6c0931d626a8f0a2fa485b01958941f7b53f">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\8621b4c964637ef6b93f5181102084e8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7181496c7bb670060ea4e3dda17e22c3d25f5bd">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\9d8e98f89f5f21ef5e295d532a50f4c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d1d560a95d54ba8c68a4867eff03c812ff308898">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Applications\GaiaDergi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f035b2bff01c3c122b1450c9525d415d9089b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\cc333299a5f06d1b6c2700a64d99eb7679bf1eed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a43035a1c810fd10a647f54fc1166288cf29572">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edede50be84328f90df9f94ec7d69525d84e3e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\705fa0082e9c06f339362909ac314612a919108a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fead5cab70eda91782b81270517757101303c4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\83c3046848551f8860d41627e344c9096f7371bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1c4ae24ce3c755b3ef7d79a343acfadfb0b097e">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d3b46b46f06606c4ebc4acdf215c6d0d743e485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\31fd3366dcd05eb5da9c581666a3a749d6c832da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="680a7f9951d205d710bb1b119011fa03ddf7a914">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_000da545e342fe9036ab6ce6cdd16a47c07f9f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\b71e226e7bd17bbb4577ab27d3ae7878\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="98155a931d5cae7fd7fd73350a724b3013f2a769">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\ff600349ae74db1672b6c0ff2885a39b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\OneSignal-3.7.1.aar\cee601e9d2136a92f08cfa30632e6428\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\3b3a4f1ec867b44a74b226ef1497e70a56ab081e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_298d0c4d6a3107b6a0a69a6001d666c3cc5784df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aykut\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\baf543f2cadf83371a6cc40ef2c70888\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.1"
+        sha1="20ea90cf871500086e68686dad7a039f2dffad8f">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\ed2f33e8c62a91342ad9eedd9cdb4fe3d326ca4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1188d79d76e4824f96962b1468bd7875ec17d69d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\04eae3284318d13b6bca5ba55dd94b0e591d0a57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52e227ac49cca9a3a1ac221475552b132387050a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aykut\.android\build-cache\5b8c212ec2591b71dd8602f2c642e17723211533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="227bbf04b4eae5247addf6569dc42af539a45f37">
+        <dex dex="D:\Applications\GaiaDergi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a79fbc73392f184a96a1444d951869e1814392a\classes.dex" />
+    </item>
+
+</items>
