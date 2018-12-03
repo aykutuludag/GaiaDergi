@@ -74,7 +74,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                 .replace("Ö", "%C3%96").replace("ş", "%C5%9F").replace("Ş", "%C5%9E").replace("ü", "%C3%BC")
                 .replace("Ü", "%C3%9C");
 
-        Picasso.with(mContext).load(encodedUrl).error(R.drawable.ic_error).placeholder(R.drawable.ic_error)
+        Picasso.get().load(encodedUrl).error(R.drawable.ic_error).placeholder(R.drawable.ic_error)
                 .into(viewHolder.image);
 
         // Setting text view title

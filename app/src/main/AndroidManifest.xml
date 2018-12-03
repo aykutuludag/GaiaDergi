@@ -121,10 +121,9 @@
             android:value="@integer/google_play_services_version" />
 
         <!--AdMob-->
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:theme="@android:style/Theme.Translucent" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5450686271846727~9210257690" />
 
         <!--Firebase Notification-->
         <meta-data

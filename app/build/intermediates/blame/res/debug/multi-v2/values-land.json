@@ -4,32 +4,32 @@
             "outputFile": "D:\\Applications\\GaiaDergi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aykutuludag\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\09232abd48c2d39ea3f26af438d33fb0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\GrandMount\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\fead4406145b0fd0b0358f5adf3f9de8\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "232"
+                        "endColumns": "10",
+                        "endOffsets": "222"
                     },
                     "to": {
-                        "startLines": "6",
+                        "startLines": "5",
                         "startColumns": "4",
-                        "startOffsets": "328",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "505"
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
                     }
                 },
                 {
-                    "source": "C:\\Users\\aykutuludag\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c13170c3d52e85e5b087ef8ee306d7c3\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\GrandMount\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b78d3fd40b819d84980b09de0951d63\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

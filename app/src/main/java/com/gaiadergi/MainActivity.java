@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //Ads
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-5450686271846727/3163724091");
+        MobileAds.initialize(getApplicationContext(), "ca-app-pub-5450686271846727~9210257690");
         AdRequest adRequest = new AdRequest.Builder().addTestDevice("1570E844A1342361F2C23869919CF823").build();
         interstitial = new InterstitialAd(this);
         interstitial.setAdUnitId("ca-app-pub-5450686271846727/3163724091");
